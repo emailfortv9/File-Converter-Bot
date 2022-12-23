@@ -12,6 +12,15 @@
 - `TOKEN` **_Your bot token from @BotFather_**
 
 ---
+
+## Deploy on vps
+git clone https://github.com/ajithvnr2001/File-Converter-Bot
+cd File-Converter-Bot
+pip3 install -U -r requirements.txt
+pip install pyrogram
+sudo apt-get install libzbar0
+python3 main.py
+
 ## Supported Formats
 
 **Images**:  *OCR, ICO, GIF, TIFF, BMP, WEBP, JP2, JPEG, JPG, PNG*
