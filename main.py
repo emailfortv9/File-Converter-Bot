@@ -23,7 +23,7 @@ import tictactoe
 
 
 # env
-bot_token = os.environ.get("TOKEN", "5578071382:AAHMJSkWrK77mhc6aCeh2Ud49AsBVqmRkAQ") 
+bot_token = os.environ.get("TOKEN", "5840871147:AAGTZP-48BMJd5If-DAi5d3v3kTU2jcqwfs") 
 api_hash = os.environ.get("HASH", "355c5539a2372a34ed1e42782a0669af") 
 api_id = os.environ.get("ID", "24069737")
 
